@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakr099" alt="shakr099" /></a> </p>
 <p> <img src="https://nafezly-production.s3.eu-west-3.amazonaws.com/uploads/services/5325_5ffb670241c38-1610311426.jpg" /></a></p>
-
+<p> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/125973407/original/ecd665011d58418ec998f03cb4cf0f46581925c2/do-responsive-ui-ux-design-for-your-website-and-landing-page.png" /></a></p>
+<p> <img src="https://www.upwork.com/catalog-images-resized/41dad966c50ed7014584201cab311952/large" /></a></p>
+<p> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/125973407/original/ecd665011d58418ec998f03cb4cf0f46581925c2/do-responsive-ui-ux-design-for-your-website-and-landing-page.png" /></a></p>
+<p> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFbOsIpzRkf7xhDpSGL4qIu66KHvrV3Cp-g&usqp=CAU" /></a></p>
+<p> <img src="https://www.captain-design.com/blog/content/images/2022/02/website-Listicle.jpg" /></a></p>
 
 - 💬 Ask me about **HTML & JS & CSS & Bootstrap & Vue.js**
 
