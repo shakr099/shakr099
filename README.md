@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakr099&label=Profile%20views&color=0e75b6&style=flat" alt="shakr099" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakr099" alt="shakr099" /></a> </p>
+<p> <img src="https://nafezly-production.s3.eu-west-3.amazonaws.com/uploads/services/5325_5ffb670241c38-1610311426.jpg" /></a></p>
+
 
 - 💬 Ask me about **HTML & JS & CSS & Bootstrap & Vue.js**
 
