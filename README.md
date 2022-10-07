@@ -7,7 +7,7 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 💬 Ask me about **HTML & JS & CSS & Bootstrap & Vue.js**
 
