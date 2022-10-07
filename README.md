@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakr099&label=Profile%20views&color=0e75b6&style=flat" alt="shakr099" /> </p>
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 💬 Ask me about **HTML & JS & CSS & Bootstrap & Vue.js**
 
 <h3 align="left">Connect with me:</h3>
