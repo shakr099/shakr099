@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💬 Ask me about **HTML &node.js & dart & Fultter& php & CSS & sql & mysql**
+- 💬 Ask me about **HTML &node.js &react.js &javascript & CSS **
 
 <h3 align="left">Connect with me:</h3>
 <hr>
