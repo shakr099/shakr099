@@ -64,3 +64,8 @@ https://mobile.twitter.com/ahmd_shkwry/likes
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 </picture>
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Sudan') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)
