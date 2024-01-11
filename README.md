@@ -14,7 +14,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💬 Ask me about **HTML  &php &sql &larvel **
+- 💬 Ask me about **HTML &CSS &Js &React **
 
 <h3 align="left">Connect with me:</h3>
 <hr>
