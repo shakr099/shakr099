@@ -3,10 +3,10 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Hi%F0%9F%91%8B%2Cl'shakr,Im,Backand,developer😇"  alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Hi%F0%9F%91%8B%2Cl'shakr,Im,Flutter,developer😇"  alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Shakr</h1>
-<h3 align="center">A shakr I 😇 Backand developer</h3>
+<h3 align="center">A shakr I 😇 Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakr099&label=Profile%20views&color=0e75b6&style=flat" alt="shakr099" /> </p>
 
@@ -14,7 +14,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💬 Ask me about **HTML &php &laravel &sql **
+- 💬 Ask me about **HTML &dart &Flutter &sql **
 
 <h3 align="left">Connect with me:</h3>
 <hr>
