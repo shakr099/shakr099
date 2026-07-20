@@ -1,37 +1,32 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Hi%F0%9F%91%8B%2Cl'shakr,Im,Flutter,developer😇"  alt="Typing SVG" /></a>
+<h1 align="center">مرحباً 👋، أنا شاكر أحمد</h1>
+<h3 align="center">مطور فلاتر شغوف من السودان</h3>
 
-<h1 align="center">Hi 👋, I'm Shakr</h1>
-<h3 align="center">A shakr I 😇 Flutter developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakr099&label=Profile%20views&color=0e75b6&style=flat" alt="shakr099" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakr099" alt="shakr099" /></a> </p>
 
-<h1>My web</h1>
-https://shakrahmed.gt.tc/
-- 💬 Ask me about **HTML &dart &Flutter &sql **
-<h3 align="left">Connect with me:</h3>
-<hr>
-<h4>Facebook<h4>
-https://www.facebook.com/profile.php?id=61591511982976<p>
-<hr>
-<p>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
-  <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
-</svg>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a <a href="https://twitter.com/shakrahmd" target="blank"><img src="https://img.shields.io/twitter/follow/shakrahmd?logo=twitter&style=for-the-badge" alt="shakrahmd" /></a> </p>
+
+- 🔭 أعمل حاليًا على **متجر شاكر**
+
+- 💬 اسألني عن **فلاتر، دارت، HTML، CSS، ماي إس كيو إل، فاجما**
+
+- 📫 كيفية التواصل معي **as4030532@gmail.com**
+
+- 📄 تعرف على خبراتي [https://shakrahmed.gt.tc/](https://shakrahmed.gt.tc/)
+
+<h3 align="left">تواصل معي:</h3>
 <p align="left">
-- 💬 Ask me  Flutter developer😇😇😏
-<hr>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
-  <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
-</svg>
+<a href="https://twitter.com/shakrahmd" <a href="https://fb.com/shakrahmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakrahmd" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://shakrahmed.gt.tc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakrahmd" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://shakrahmed.gt.tc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://shakrahmed.gt.tc/" height="30" width="40" /></a>
+</p>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<hr>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-</picture>
+<h3 align="left">اللغات والأدوات:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.<a href="https://www.lix.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakr099&show_icons=true&locale=en&layout=compact" alt="shakr099" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakr099&show_icons=true&locale=en" alt="shakr099" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakr099&" alt="shakr099" /></p>
