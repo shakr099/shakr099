@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHAKR AHMD</h1>
-<h3 align="center">A passionate Flutter developer from sudain</h3>
+<h3 align="center">A passionate Backand developer from sudain</h3>
 
-<p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Hi%F0%9F%91%8B%2Cl'shakr,Im,Flutter,developer😇"  alt="Typing SVG" /></a></p>
+<p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&lines=Hi%F0%9F%91%8B%2Cl'shakr,Im,Backand,developer😇"  alt="Typing SVG" /></a></p>
 
 
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **shaker store**
 
-- 💬 Ask me about **Flutter,Dart,html,css,mysql,fagma**
+- 💬 Ask me about **PHP Laravel,Dart,html,css,mysql,fagma**
 
 - 📫 How to reach me **as4030532@gmail.com**
 
-- 📄 Know about my experiences [https://shakrahmed.gt.tc/](https://shakrahmed.gt.tc/)
+- 📄 Know about my experiences [shakr.gt.tc](shakr.gt.tc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
